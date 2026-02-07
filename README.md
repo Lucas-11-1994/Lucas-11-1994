@@ -6,12 +6,12 @@
 # 👨🏾‍💻 Lucas Lopes
 **`Desenvolvedor FullStack`**
 
-Olá! Sou o Lucas, moro em Guarulhos/SP e sou apaixonado por solucionar problemas através da tecnologia. Atualmente no 4º semestre de ADS no Eniac, estou focado na transição de carreira para minha primeira oportunidade como Dev.
+Olá! Sou o Lucas, moro em Guarulhos/SP e sou apaixonado por solucionar problemas através da tecnologia. Atualmente Formado em ADS no Eniac, estou focado na transição de carreira para minha primeira oportunidade como Dev.
 
 ### 🏠 Sobre Mim
-- 🎂 **Idade:** ![Minha Idade](https://img.shields.io/badge/dynamic/json?label=Idade&query=$.age&url=https://api.abalin.net/get_age?birthdate=1994-05-15&color=blue)
-- 👨‍👩‍👧‍👦 Casado, pai de uma princesa de 6 anos e com mais um "commit" chegando em breve na família!
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas (Eniac).
+- 🎂 **Idade:**
+- 👨‍👩‍👧‍👦 Casado, pai de Duas princesa de 7 anos e 1 mes de idade.
+- 🎓 Formado Tecnologo em Análise e Desenvolvimento de Sistemas (Eniac).
 - 📍 Guarulhos, SP.
 
 ---
