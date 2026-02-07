@@ -4,10 +4,19 @@
 
 
 # 👨🏾‍💻 Lucas Lopes
-
 **`Desenvolvedor FullStack`**
 
-Olá eu sou Lucas Lopes, tenho 30 anos Casado e tenho 1 filha de 6 anos e um Bebê a caminho, sou natural de Guarulhos,SP. Atualmente estou cursando o 4º Semestre de Análise e Desenvolvimento de Sistemas no Eniac. Sou apaixonada por tecnologia e estou a procura da minha primeira experiencia como Dev "
+Olá! Sou o Lucas, moro em Guarulhos/SP e sou apaixonado por solucionar problemas através da tecnologia. Atualmente no 4º semestre de ADS no Eniac, estou focado na transição de carreira para minha primeira oportunidade como Dev.
+
+### 🏠 Sobre Mim
+- 🎂 **Idade:** ![Minha Idade](https://img.shields.io/badge/dynamic/json?label=Idade&query=$.age&url=https://api.abalin.net/get_age?birthdate=1994-05-15&color=blue)
+- 👨‍👩‍👧‍👦 Casado, pai de uma princesa de 6 anos e com mais um "commit" chegando em breve na família!
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas (Eniac).
+- 📍 Guarulhos, SP.
+
+---
+
+### 🛠️ Tecnologias
 
 <p 
     </a> 
